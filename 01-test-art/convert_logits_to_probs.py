@@ -1,4 +1,3 @@
-# convert_logits_to_probs.py
 import json, math
 
 def softmax_row(z):

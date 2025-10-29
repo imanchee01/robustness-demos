@@ -3,7 +3,7 @@ import datetime
 import subprocess
 import sys
 
-# MODEL_ID = "allenai/OLMo-2-0425-1B"  # Updated to OLMo-2 model
+# MODEL_ID = "allenai/OLMo-2-0425-1B"  # OLMo-2 model
 MODEL_ID = "microsoft/DialoGPT-small"  # Much smaller model for testing
 
 PROBES = "promptinject,dan.Dan_11_0"  # small demo set; expand later
